@@ -26,6 +26,8 @@ Run the script to clean and organize the sales data
 ```bash
 $ python transaction_cleaner.py
 
+```
+
 ## Example Output
 
 Total Sales: $185.65
