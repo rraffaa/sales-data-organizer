@@ -30,10 +30,10 @@ $ python transaction_cleaner.py
 
 ## Example Output
 
-Total Sales: $185.65
-Today, 2 threads of color white were sold.
-Today, 2 threads of color purple were sold.
-Today, 1 thread of color blue was sold.
+- Total Sales: $185.65
+- Today, 2 threads of color white were sold.
+- Today, 2 threads of color purple were sold.
+- Today, 1 thread of color blue was sold.
 ...
 
 ## File Structure
