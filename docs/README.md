@@ -39,3 +39,9 @@ $ python transaction_cleaner.py
 ## File Structure
 - transaction_cleaner.py: The main script that processes and cleans the sales data.
 - sales_report.csv: The file where the cleaned and organized data is saved.
+
+## License
+
+This project is licensed under the Apache License, Version 2.0. You can obtain a copy of the license at:
+
+[https://www.apache.org/licenses/LICENSE-2.0](https://www.apache.org/licenses/LICENSE-2.0)
