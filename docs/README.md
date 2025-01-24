@@ -20,11 +20,13 @@ The final output includes:
 This exercise provides hands-on experience with list manipulation, string processing, and basic data analysis in Python.
 
 ## Example Usage
-    ```bash
-# Run the script to clean and organize the sales data
+
+Run the script to clean and organize the sales data
+
+```bash
 $ python transaction_cleaner.py
 
-### Example Output
+## Example Output
 
 Total Sales: $185.65
 Today, 2 threads of color white were sold.
